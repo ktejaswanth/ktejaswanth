@@ -4,24 +4,24 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=3000\&pause=1000\&color=06B6D4\&center=true\&vCenter=true\&width=900\&lines=Hey+There!+I'm+Kondaveti+Tejaswanth+👋;Full+Stack+Developer+from+KL+University;Building+AI-Powered+Applications+🤖;Turning+Ideas+into+Scalable+Products+🚀;Hackathons+%7C+Innovation+%7C+Software+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Kondaveti+Tejaswanth+👋;Full+Stack+Developer+from+KL+University;Building+AI-Powered+Applications+🤖;Turning+Ideas+into+Scalable+Products+🚀;Hackathons+%7C+Innovation+%7C+Software+Engineering)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/ktejaswanth?style=for-the-badge\&logo=github\&color=0891b2)](https://github.com/ktejaswanth?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=ktejaswanth\&style=for-the-badge\&color=06b6d4)](https://github.com/ktejaswanth)
+[![GitHub followers](https://img.shields.io/github/followers/ktejaswanth?style=for-the-badge&logo=github&color=0891b2)](https://github.com/ktejaswanth?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=ktejaswanth&style=for-the-badge&color=06b6d4)](https://github.com/ktejaswanth)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```java
 public class KondavetiTejaswanth {
 
+    String role = "Full Stack Developer & AI Enthusiast";
+
     String university = "KL University";
     String degree = "B.Tech Computer Science Engineering";
-
-    String role = "Full Stack Developer & AI Enthusiast";
 
     String[] interests = {
         "Artificial Intelligence",
@@ -41,79 +41,128 @@ public class KondavetiTejaswanth {
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🔥 Profile Summary
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,spring,mongodb,mysql,git,github,tailwind,vscode,figma" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktejaswanth&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktejaswanth&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktejaswanth&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktejaswanth&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktejaswanth&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ Tech Arsenal
 
-### 🌟 PortNova — AI Portfolio Platform
+<div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ktejaswanth\&repo=studentportfolios\&theme=tokyonight)](https://github.com/ktejaswanth/studentportfolios)
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,spring,mongodb,mysql,git,github,tailwind,vscode,figma,vercel" />
 
-**Live Demo:** https://portnova.vercel.app/
-
-**Highlights**
-
-* AI-powered portfolio generation
-* Dynamic project showcase
-* Professional branding platform
-* Responsive modern UI
-* Skill visualization
+</div>
 
 ---
 
-### 🎓 KL Academic Progress Tracking System
+# 🚀 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ktejaswanth\&repo=kl-academic-progress-tracking-system\&theme=tokyonight)](https://github.com/ktejaswanth/kl-academic-progress-tracking-system)
+<div align="center">
 
-**Live Demo:** https://klstudents.vercel.app/
+<a href="https://github.com/ktejaswanth/studentportfolios">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ktejaswanth&repo=studentportfolios&theme=tokyonight"/>
+</a>
 
-**Highlights**
+<a href="https://github.com/ktejaswanth/kl-academic-progress-tracking-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ktejaswanth&repo=kl-academic-progress-tracking-system&theme=tokyonight"/>
+</a>
 
-* Degree requirement tracking
-* Credit monitoring
-* CGPA analytics
-* Academic progress dashboard
-* Graduation eligibility checker
-
----
-
-### 🤖 MockMate
-
-AI-powered interview preparation and career optimization platform.
-
-### 🚌 Real-Time Bus Tracking System
-
-Smart transportation solution for small cities with live tracking and ETA prediction.
-
-### 🐾 Monitoring Creatures
-
-Cloud-based wildlife monitoring and analytics platform.
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🌟 PortNova
 
-🥇 Smart India Hackathon Project Developer
+🔗 Repo: https://github.com/ktejaswanth/studentportfolios
 
-🥇 Code Storm Hackathon Participant
+🌐 Live: https://portnova.vercel.app/
 
-🥇 Built Multiple Full Stack Applications
-
-🥇 AI & Software Development Enthusiast
-
-🥇 Problem Solver & Continuous Learner
+- AI Portfolio Builder
+- Dynamic Project Showcase
+- Professional Branding
+- Responsive Design
 
 ---
 
-## 📊 GitHub Analytics
+## 🎓 KL Academic Progress Tracking System
+
+🔗 Repo: https://github.com/ktejaswanth/kl-academic-progress-tracking-system
+
+🌐 Live: https://klstudents.vercel.app/
+
+- Degree Tracking
+- CGPA Analytics
+- Academic Dashboard
+- Credit Monitoring
+
+---
+
+## 💳 Offline Payment System
+
+- Internet-Free Digital Payments
+- Offline Transaction Storage
+- Secure Token Verification
+- Auto Synchronization
+
+---
+
+## 🤖 MockMate
+
+- AI Interview Preparation
+- Resume Analysis
+- Mock Interviews
+- Career Optimization
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Current:
+  - AI-Powered Applications
+  - Full Stack Development
+  - Spring Boot Projects
+  - Portfolio Automation
+
+Learning:
+  - AI Agents
+  - Cloud Computing
+  - System Design
+  - DevOps
+
+Building:
+  - PortNova
+  - KL Academic Progress Tracking System
+  - Offline Payment System
+
+Goal:
+  - Software Engineer
+  - AI Product Builder
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -131,29 +180,53 @@ Cloud-based wildlife monitoring and analytics platform.
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktejaswanth&theme=tokyo-night&area=true&hide_border=true"/>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ktejaswanth\&theme=tokyonight\&row=1\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ktejaswanth&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 💭 Developer Quote
+# 🐍 Contribution Snake
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ktejaswanth/ktejaswanth/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 💭 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 🏆 Achievements
+
+🥇 Smart India Hackathon Participant
+
+🥇 Code Storm Hackathon Participant
+
+🥇 Multiple Full Stack Projects
+
+🥇 AI & Software Development Enthusiast
+
+🥇 Continuous Learner
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
