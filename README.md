@@ -245,7 +245,7 @@ Goal:
 <img src="https://img.shields.io/badge/LinkedIn-Kondaveti%20Tejaswanth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://portnova.vercel.app/">
+<a href="https://ktejaswanth.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-PortNova-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
