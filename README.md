@@ -4,10 +4,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Kondaveti+Tejaswanth+👋;Full+Stack+Developer+from+KL+University;Building+AI-Powered+Applications+🤖;Turning+Ideas+into+Scalable+Products+🚀;Hackathons+%7C+Innovation+%7C+Software+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=3000\&pause=1000\&color=06B6D4\&center=true\&vCenter=true\&width=900\&lines=Hey+There!+I'm+Kondaveti+Tejaswanth+👋;Full+Stack+Developer+from+KL+University;Building+AI-Powered+Applications+🤖;Turning+Ideas+into+Scalable+Products+🚀;Hackathons+%7C+Innovation+%7C+Software+Engineering)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/ktejaswanth?style=for-the-badge&logo=github&color=0891b2)](https://github.com/ktejaswanth?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=ktejaswanth&style=for-the-badge&color=06b6d4)](https://github.com/ktejaswanth)
+![Profile Views](https://komarev.com/ghpvc/?username=ktejaswanth\&style=for-the-badge\&color=06b6d4)
+
+[![GitHub followers](https://img.shields.io/github/followers/ktejaswanth?style=for-the-badge\&logo=github\&color=0891b2)](https://github.com/ktejaswanth?tab=followers)
 
 </div>
 
@@ -24,9 +25,9 @@ public class KondavetiTejaswanth {
     String degree = "B.Tech Computer Science Engineering";
 
     String[] interests = {
+         "Full Stack Development",
         "Artificial Intelligence",
         "Software Engineering",
-        "Full Stack Development",
         "Cloud Computing",
         "System Design"
     };
@@ -45,21 +46,21 @@ public class KondavetiTejaswanth {
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktejaswanth&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktejaswanth\&theme=tokyonight)
 
 </div>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktejaswanth&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktejaswanth&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktejaswanth\&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ktejaswanth\&theme=tokyonight)
 
 </div>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktejaswanth&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktejaswanth&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktejaswanth\&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktejaswanth\&theme=tokyonight)
 
 </div>
 
@@ -93,45 +94,49 @@ public class KondavetiTejaswanth {
 
 ## 🌟 PortNova
 
-🔗 Repo: https://github.com/ktejaswanth/studentportfolios
+🔗 Repository: https://github.com/ktejaswanth/studentportfolios
 
-🌐 Live: https://portnova.vercel.app/
+🌐 Live Demo: https://portnova.vercel.app/
 
-- AI Portfolio Builder
-- Dynamic Project Showcase
-- Professional Branding
-- Responsive Design
+* AI Portfolio Builder
+* Dynamic Project Showcase
+* Professional Branding Platform
+* Responsive Modern UI
+* Skill Visualization
 
 ---
 
 ## 🎓 KL Academic Progress Tracking System
 
-🔗 Repo: https://github.com/ktejaswanth/kl-academic-progress-tracking-system
+🔗 Repository: https://github.com/ktejaswanth/kl-academic-progress-tracking-system
 
-🌐 Live: https://klstudents.vercel.app/
+🌐 Live Demo: https://klstudents.vercel.app/
 
-- Degree Tracking
-- CGPA Analytics
-- Academic Dashboard
-- Credit Monitoring
+* Degree Requirement Tracking
+* Credit Monitoring
+* CGPA Analytics
+* Academic Dashboard
+* Graduation Eligibility Checker
 
 ---
 
 ## 💳 Offline Payment System
 
-- Internet-Free Digital Payments
-- Offline Transaction Storage
-- Secure Token Verification
-- Auto Synchronization
+* Internet-Free Digital Payments
+* Offline Transaction Storage
+* Secure Token Verification
+* Automatic Synchronization
+* Low-Network Environment Support
 
 ---
 
 ## 🤖 MockMate
 
-- AI Interview Preparation
-- Resume Analysis
-- Mock Interviews
-- Career Optimization
+* AI Interview Preparation Platform
+* Resume Analysis
+* Mock Interviews
+* Career Optimization
+* Performance Analytics
 
 ---
 
@@ -186,11 +191,13 @@ Goal:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 GitHub Overview
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ktejaswanth&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktejaswanth&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktejaswanth&theme=tokyonight"/>
 
 </div>
 
@@ -200,7 +207,7 @@ Goal:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ktejaswanth/ktejaswanth/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/ktejaswanth/ktejaswanth/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -208,7 +215,7 @@ Goal:
 
 # 💭 Developer Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
